@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Priyanshu Urmaliya — a Computer Science Engineering student passionate about backend development, AI/ML, and cybersecurity. I enjoy building real-world systems using Python, Node.js, and the MERN stack, and I’ve worked on projects ranging from stock market analytics to AI-driven cyber incident detection. Always curious, always learning, and focused on writing clean, scalable code.<br>⚡ Fun fact : More likely your Ai guy.
+👋 Hi, I’m Priyanshu Urmaliya — a Computer Science Engineering student passionate about backend development, AI/ML, and cybersecurity. I enjoy building real-world systems using Python, Node.js, and the MERN stack, and I’ve worked on projects ranging from stock market analytics to AI-driven cyber incident detection. Always curious, always learning, and focused on writing clean, scalable code.<br>⚡ Fun fact : More likely your Ai guy
 
 
 ## 🌐 Socials:
