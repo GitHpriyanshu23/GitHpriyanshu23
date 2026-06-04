@@ -18,8 +18,3 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=GitHpriyanshu23)
 [![](https://visitcount.itsvg.in/api?id=GitHpriyanshu23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Support 
-PUMP.FUN
-
-GTg4dGtcqioyNyHM2B9Rwsh74Keuz4HK5USdSUNKpump
-
